@@ -76,8 +76,8 @@ export default function FeaturesBlocks() {
                   <rect className="fill-current text-orange-500" width="64" height="64" rx="32" />
                   <g strokeWidth="2" transform="translate(4,4)">
                     {/* <circle cx="28" cy="28" r="28" fill="#0070F4" /> */}
-                    <path d="M33.973 19.691C32.5123 18.0419 30.4352 17.0695 28.2332 17.0036C26.0312 16.9377 23.8998 17.7842 22.343 19.343" stroke="#99C5FA" stroke-width="2" stroke-linecap="square" />
-                    <path d="M30.978 22.353C30.2517 21.5255 29.2148 21.0363 28.1143 21.002C27.0138 20.9677 25.9484 21.3914 25.172 22.172" stroke="#99C5FA" stroke-width="2" stroke-linecap="square" />
+                    <path d="M33.973 19.691C32.5123 18.0419 30.4352 17.0695 28.2332 17.0036C26.0312 16.9377 23.8998 17.7842 22.343 19.343" stroke="rgb(253 186 116)" stroke-width="2" stroke-linecap="square" />
+                    <path d="M30.978 22.353C30.2517 21.5255 29.2148 21.0363 28.1143 21.002C27.0138 20.9677 25.9484 21.3914 25.172 22.172" stroke="rgb(253 186 116)" stroke-width="2" stroke-linecap="square" />
                     <path d="M17 22C20.3137 22 23 24.6863 23 28V29.04L24.5 32.5L23 33V35C23 36.1046 22.1046 37 21 37H19V39" stroke="white" stroke-width="2" stroke-linecap="square" />
                     <path d="M39 22C35.6863 22 33 24.6863 33 28V29.04L31.5 32.5L33 33V35C33 36.1046 33.8954 37 35 37H37V39" stroke="white" stroke-width="2" stroke-linecap="square" />
                   </g>
