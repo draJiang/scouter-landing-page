@@ -1,3 +1,5 @@
+"use client";
+
 import VideoThumb from "@/public/images/hero-image.png";
 import ModalVideo from "@/components/modal-video";
 import { saveAs } from 'file-saver';
